@@ -8,9 +8,8 @@ It shall NOT be edited by hand.
   Lute, packaged for YunoHost
 </h1>
 
-Explain in *a few (10~15) words* the purpose of the app or what it actually does (it is meant to give a rough idea to users browsing a catalog of 100+ apps)
+Learning Using Texts
 
-[![🌐 Official app website](https://img.shields.io/badge/Official_app_website-darkgreen?style=for-the-badge)](https://example.com)
 [![Version: 3.10.1~ynh1](https://img.shields.io/badge/Version-3.10.1~ynh1-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/lute/)
 
 <div align="center">
