@@ -1,5 +1,5 @@
 [Unit]
-Description=Lute
+Description=Lute: Learning using texts
 After=network.target
 
 [Service]
