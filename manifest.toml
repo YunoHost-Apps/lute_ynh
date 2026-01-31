@@ -4,8 +4,8 @@ packaging_format = 2
 
 id = "lute"
 name = "Lute"
-description.en = "Explain in *a few (10~15) words* the purpose of the app or what it actually does (it is meant to give a rough idea to users browsing a catalog of 100+ apps)"
-description.fr = "Expliquez en *quelques* (10~15) mots l'utilité de l'app ou ce qu'elle fait (l'objectif est de donner une idée grossière pour des utilisateurs qui naviguent dans un catalogue de 100+ apps)"
+description.en = "Learning Using Texts"
+description.fr = "Apprendre à l'aide de textes"
 
 version = "3.10.1~ynh1"
 
@@ -13,8 +13,7 @@ maintainers = [ ]
 
 [upstream]
 license = "MIT"
-website = "https://example.com"
-admindoc = "https://yunohost.org/packaging_apps"
+admindoc = "https://luteorg.github.io/lute-manual/install/install.html"
 userdoc = "https://luteorg.github.io/lute-manual/"
 code = "https://github.com/LuteOrg/lute-v3/tree/master"
 
