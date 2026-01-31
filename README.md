@@ -19,7 +19,7 @@ Learning Using Texts
 
 
 ## Screenshots
-![Screenshot of Lute](./doc/screenshots/example.jpg)
+![Screenshot of Lute](./doc/screenshots/screenshot.png)
 
 ## 📦 Developer info
 
