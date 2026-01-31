@@ -4,7 +4,6 @@
 # IMPORT GENERIC HELPERS
 #=================================================
 
-source _common.sh
 source /usr/share/yunohost/helpers
 
 #=================================================
@@ -24,9 +23,9 @@ ynh_setup_source --dest_dir="$install_dir" --full_replace
 #=================================================
 # UPDATE A CONFIG FILE
 #=================================================
-ynh_script_progression "Updating $app's configuration files..."
+#ynh_script_progression "Updating $app's configuration files..."
 
-ynh_config_add --template="some_config_file" --destination="$install_dir/some_config_file"
+#ynh_config_add --template="some_config_file" --destination="$install_dir/some_config_file"
 
 #=================================================
 # REAPPLY SYSTEM CONFIGURATION

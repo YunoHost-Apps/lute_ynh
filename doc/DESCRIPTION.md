@@ -1,1 +1,1 @@
-This is a dummy description of this app features
+LUTE (Learning Using Texts) is a standalone web application that you install on your computer and read texts with.
