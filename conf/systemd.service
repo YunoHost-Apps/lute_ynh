@@ -7,7 +7,7 @@ Type=simple
 User=__APP__
 Group=__APP__
 WorkingDirectory=__INSTALL_DIR__/
-ExecStart==__INSTALL_DIR__/venv/bin/python -m lute.main --port __PORT__
+ExecStart=__INSTALL_DIR__/venv/bin/python __INSTALL_DIR__/venv/bin/lute --port __PORT__ --config __INSTALL_DIR__/config.yml
 
 # Sandboxing options to harden security
 # Details for these options: https://www.freedesktop.org/software/systemd/man/systemd.exec.html
