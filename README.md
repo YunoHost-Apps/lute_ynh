@@ -25,7 +25,7 @@ Learning Using Texts
 
 [![Automatic tests level](https://apps.yunohost.org/badge/cilevel/lute)](https://ci-apps.yunohost.org/ci/apps/lute/)
 
-🛠️ Upstream Lute repository: <https://github.com/LuteOrg/lute-v3/tree/master>
+🛠️ Upstream Lute repository: <https://github.com/LuteOrg/lute-v3>
 
 Pull request are welcome and should target the [`testing` branch](https://github.com/YunoHost-Apps/lute_ynh/tree/testing).
 
