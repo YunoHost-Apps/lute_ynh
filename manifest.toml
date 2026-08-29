@@ -15,7 +15,7 @@ maintainers = [ ]
 license = "MIT"
 admindoc = "https://luteorg.github.io/lute-manual/install/install.html"
 userdoc = "https://luteorg.github.io/lute-manual/"
-code = "https://github.com/LuteOrg/lute-v3/tree/master"
+code = "https://github.com/LuteOrg/lute-v3"
 
 [integration]
 yunohost = ">= 12.1.38"
