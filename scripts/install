@@ -26,6 +26,8 @@ ynh_script_progression "Adding $app's configuration files..."
 
 ynh_config_add --template="config.yml" --destination="$install_dir/config.yml"
 
+chown -R $app:$app "$data_dir"
+
 #=================================================
 # SYSTEM CONFIGURATION
 #=================================================
