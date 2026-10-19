@@ -7,7 +7,7 @@ name = "Lute"
 description.en = "Learning Using Texts"
 description.fr = "Apprendre à l'aide de textes"
 
-version = "3.10.3~ynh1"
+version = "3.10.3~ynh2"
 
 maintainers = [ ]
 
