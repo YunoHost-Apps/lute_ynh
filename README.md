@@ -10,7 +10,7 @@ It shall NOT be edited by hand.
 
 Learning Using Texts
 
-[![Version: 3.10.3~ynh1](https://img.shields.io/badge/Version-3.10.3~ynh1-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/lute/)
+[![Version: 3.10.3~ynh2](https://img.shields.io/badge/Version-3.10.3~ynh2-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/lute/)
 
 <div align="center">
 <a href="https://apps.yunohost.org/app/lute"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
@@ -25,7 +25,7 @@ Learning Using Texts
 
 [![Automatic tests level](https://apps.yunohost.org/badge/cilevel/lute)](https://ci-apps.yunohost.org/ci/apps/lute/)
 
-🛠️ Upstream Lute repository: <https://github.com/LuteOrg/lute-v3/tree/master>
+🛠️ Upstream Lute repository: <https://github.com/LuteOrg/lute-v3>
 
 Pull request are welcome and should target the [`testing` branch](https://github.com/YunoHost-Apps/lute_ynh/tree/testing).
 
